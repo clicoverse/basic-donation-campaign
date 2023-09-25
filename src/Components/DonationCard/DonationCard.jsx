@@ -1,6 +1,7 @@
 import { Typography } from "@material-tailwind/react";
 import { useLoaderData, useParams } from "react-router-dom";
 import Swal from "sweetalert2";
+import { saveDataToLs } from "../../Utils/LocalStorage";
 
 const DonationCard = () => {
   const donations = useLoaderData();
@@ -9,6 +10,7 @@ const DonationCard = () => {
   const donation = donations?.find((donation) => donation.id === idInt);
 
   const handleDonateClick = () => {
+    saveDataToLs(idInt);
     Swal.fire({
       icon: "success",
       title: "Thank You",
