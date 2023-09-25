@@ -1,0 +1,188 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/PFLG6Mq/Health.png",
+      "thumbnail_img": "https://i.ibb.co/TB1dmfV/Rectangle-4284.png",
+      "category": "Health",
+      "title": "Clean Water for Children",
+      "description": "Provide clean water to children in need. Clean water is essential for the health and well-being of children all over the world. Your contribution can make a significant difference by ensuring that more children have access to safe and clean drinking water. Join us in this important mission today.",
+      "price": 50,
+      "color": {
+        "card_background": "#0052ff26",
+        "button_background": "#0052ff33",
+        "button_text": "#0052FF",
+        "title_text": "#0052FF"
+      }
+    },
+    
+
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/R3ydvvs/Education.png",
+      "thumbnail_img": "https://i.ibb.co/DDnYgvK/Rectangle-4287-1.png",
+      "category": "Education",
+      "title": "Good Education",
+      "description": "Support quality education initiatives. Education is the foundation of a better future for everyone. Your contribution can help us improve the quality of education for underserved communities. Join our mission to provide access to good education for all.",
+      "price": 25,
+      "color": {
+        "card_background": "#ff444a26",
+        "button_background": "#ff444a33",
+        "button_text": "#FF444A",
+        "title_text": "#FF444A"
+      }
+    },
+   {
+      "id": 3,
+      "image": "https://i.ibb.co/spSwb0C/Clothing.png",
+      "thumbnail_img": "https://i.ibb.co/C9Dq0kg/Rectangle-4287.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Donate used clothing to those in need. Your gently used clothing items can provide warmth and comfort to those less fortunate. Join our clothing drive to make a positive impact on the lives of people in your community.",
+      "price": 10,
+      "color": {
+        "card_background": "#79c23f26",
+        "button_background": "#79c23f33",
+        "button_text": "#79C23F",
+        "title_text": "#79C23F"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/R3ydvvs/Education.png",
+      "thumbnail_img": "https://i.ibb.co/DDnYgvK/Rectangle-4287-1.png",
+      "category": "Education",
+      "title": "Free Basic Education",
+      "description": "Promote access to free basic education for all. Basic education is a fundamental right, and no child should be denied it. Your support can make education accessible to those who need it most. Join us in our mission for free basic education.",
+      "price": 20,
+      "color": {
+        "card_background": "#ff444a26",
+        "button_background": "#ff444a33",
+        "button_text": "#FF444A",
+        "title_text": "#FF444A"
+      }
+    },
+    
+
+{
+      "id": 5,
+      "image": "https://i.ibb.co/PFLG6Mq/Health.png",
+      "thumbnail_img": "https://i.ibb.co/TB1dmfV/Rectangle-4284.png",
+      "category": "Health",
+      "title": "Plant a Tree",
+      "description": "Contribute to a greener future by planting trees. Trees play a crucial role in maintaining a healthy environment and combating climate change. By participating in our tree-planting initiative, you can help create a better world for future generations. Join us in this noble cause today.",
+      "price": 40,
+      "color": {
+        "card_background": "#0052ff26",
+        "button_background": "#0052ff33",
+        "button_text": "#0052FF",
+        "title_text": "#0052FF"
+      }
+    },
+ 
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/spSwb0C/Clothing.png",
+      "thumbnail_img": "https://i.ibb.co/C9Dq0kg/Rectangle-4287.png",
+      "category": "Clothing",
+      "title": "Used Shoes Drive",
+      "description": "Collect used shoes for people in need. A pair of shoes can mean safety and dignity for someone without them. Join our shoe drive to provide footwear to those who need it most.",
+      "price": 15,
+      "color": {
+        "card_background": "#79c23f26",
+        "button_background": "#79c23f33",
+        "button_text": "#79C23F",
+        "title_text": "#79C23F"
+      }
+    },
+  {
+      "id": 7,
+      "image": "https://i.ibb.co/HhRYnLp/Food.png",
+      "thumbnail_img": "https://i.ibb.co/LZNwM1d/Rectangle-4287-2.png",
+      "category": "Food",
+      "title": "Fresh Food for Children",
+      "description": "Provide fresh food to children in need. Fresh, nutritious food is vital for the growth and development of children. Join our initiative to ensure that children have access to fresh and healthy meals.",
+      "price": 35,
+      "color": {
+        "card_background": "#f8714726",
+        "button_background": "#f8714733",
+        "button_text": "#F87147",
+        "title_text": "#F87147"
+      }
+    },
+{
+      "id": 8,
+      "image": "https://i.ibb.co/R3ydvvs/Education.png",
+      "thumbnail_img": "https://i.ibb.co/DDnYgvK/Rectangle-4287-1.png",
+      "category": "Education",
+      "title": "Girls Child Education",
+      "description": "Empower girls through education. Girls' education is a powerful tool for breaking the cycle of poverty. Your contribution can help empower girls and change their lives through education. Join our mission for girls' child education.",
+      "price": 30,
+      "color": {
+        "card_background": "#ff444a26",
+        "button_background": "#ff444a33",
+        "button_text": "#FF444A",
+        "title_text": "#FF444A"
+      }
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/spSwb0C/Clothing.png",
+      "thumbnail_img": "https://i.ibb.co/C9Dq0kg/Rectangle-4287.png",
+      "category": "Clothing",
+      "title": "Used Toys Drive",
+      "description": "Donate used toys to bring joy to children. Toys are more than just playthings; they're sources of happiness. Join our toy drive to put smiles on the faces of children who may not have had the chance to have their own toys.",
+      "price": 5,
+      "color": {
+        "card_background": "#79c23f26",
+        "button_background": "#79c23f33",
+        "button_text": "#79C23F",
+        "title_text": "#79C23F"
+      }
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/HhRYnLp/Food.png",
+      "thumbnail_img": "https://i.ibb.co/LZNwM1d/Rectangle-4287-2.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Support initiatives for better food access. Access to nutritious food is a basic human right. Join our mission to ensure better food access for all, especially those in underserved communities.",
+      "price": 30,
+      "color": {
+        "card_background": "#f8714726",
+        "button_background": "#f8714733",
+        "button_text": "#F87147",
+        "title_text": "#F87147"
+      }
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/PFLG6Mq/Health.png",
+      "thumbnail_img": "https://i.ibb.co/TB1dmfV/Rectangle-4284.png",
+      "category": "Health",
+      "title": "Clean Environment",
+      "description": "Create a clean environment for the well-being of children. Children deserve to grow up in a clean and safe environment where they can thrive. Your support can help us make communities cleaner and healthier for children. Join our mission for a cleaner and safer world for all kids.",
+      "price": 60,
+      "color": {
+        "card_background": "#0052ff26",
+        "button_background": "#0052ff33",
+        "button_text": "#0052FF",
+        "title_text": "#0052FF"
+      }
+    },
+  
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/HhRYnLp/Food.png",
+      "thumbnail_img": "https://i.ibb.co/LZNwM1d/Rectangle-4287-2.png",
+      "category": "Food",
+      "title": "Clean Water for Everyone",
+      "description": "Ensure clean water access for all. Clean water is a basic necessity of life, yet millions lack access to it. Join our mission to provide clean and safe water to communities in need.",
+      "price": 45,
+      "color": {
+        "card_background": "#f8714726",
+        "button_background": "#f8714733",
+        "button_text": "#F87147",
+        "title_text": "#F87147"
+      }
+    }
+]
