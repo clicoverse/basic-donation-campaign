@@ -16,6 +16,7 @@ const Donation = () => {
         donationApplied.push(donation);
       }
       setAppliedDonations(donationApplied);
+      // console.log(donationApplied);
     }
   }, [donations]);
 

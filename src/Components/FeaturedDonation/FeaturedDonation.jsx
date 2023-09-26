@@ -9,7 +9,7 @@ const FeaturedDonation = () => {
       .then((res) => res.json())
       .then((data) => setCards(data));
   }, []);
-
+  // console.log(cards);
   return (
     <div className="grid grid-cols-1 lg:grid-cols-4 gap-5 px-5">
       {cards?.map((card) => (
